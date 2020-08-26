@@ -21,7 +21,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [My GitHub Blog Articles](https://github.blog/author/mishmanners/) :book:
 - [My esports and gaming articles](https://www.dailyesports.gg/author/michelle/) :notebook:
 - [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :bookmark:
-- [Talks and presentations](https://mishmanners.tech/recorded-presentations/):books:
+- [Talks and presentations](https://mishmanners.tech/recorded-presentations/) :books:
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
 
 ### Some Fun Facts about me:
