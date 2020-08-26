@@ -17,6 +17,13 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [MishManners website](http://mishmanners.com) 🌐 
 - [Hackathon Queen blog](http://hackathonqueen.com) 🌐
 
+### Watch, read, and catch up on content:
+- [My GitHub Blog Articles](https://github.blog/author/mishmanners/) :book:
+- [My esports and gaming articles](https://www.dailyesports.gg/author/michelle/) :notebook:
+- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :bookmark:
+- [Talks and presentations](https://mishmanners.tech/recorded-presentations/):books:
+- [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
+
 ### Some Fun Facts about me:
 
 :zap: I have an electric scooter company, so check it out over on [Raine Scooters](https://raine.co). I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel I also do live coding too! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online and jump in on my Twitch chats!
