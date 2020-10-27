@@ -1,4 +1,4 @@
-### Hey everyone, I'm Mish Manners, AKA the Hackathon Queen 👋
+### Hey everyone, I'm Mish Manners®™, AKA the Hackathon Queen®™ 👋
 
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -14,8 +14,8 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Twitch](http://twitch.tv/MishManners) 📺 
 - [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
 - [YouTube](http://youtube.com/c/MishManners) 📽 
-- [MishManners website](http://mishmanners.com) 🌐 
-- [Hackathon Queen blog](http://hackathonqueen.com) 🌐
+- [MishManners®™ website](http://mishmanners.com) 🌐 
+- [Hackathon Queen®™ blog](http://hackathonqueen.com) 🌐
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
