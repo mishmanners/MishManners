@@ -3,7 +3,9 @@
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://github.com/MishManners/MishManners/blob/master/All%20-%20Hackathon%20QueenV2.jpg?raw=true">
+<!-- <img src=""> this is another way you can add in images. -->
+
+![](https://github.com/MishManners/MishManners/blob/master/All%20-%20Hackathon%20QueenV2.jpg?raw=true)
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event or speaking on stage! 
 
