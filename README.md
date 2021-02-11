@@ -30,5 +30,4 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 :zap: I have an electric scooter company, so check it out over on [Raine Scooters](https://raine.co). I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel I also do live coding too! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online and jump in on my Twitch chats!
 
 
-
-<img src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" width="150" height="150">
+<img src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" width="200" height="200">
