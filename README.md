@@ -26,7 +26,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :bookmark:
 - [Talks and presentations](https://mishmanners.tech/recorded-presentations/) :books:
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛒
+- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
 
 ### Some Fun Facts about me:
 
