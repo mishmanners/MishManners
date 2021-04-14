@@ -37,7 +37,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 ## GitHub Skyline
 
-If you haven't had a chance to check out [GitHub Skyline yet](https://skyline.github.com/) do it now. Check out the awesome things you can output.
+If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. Check out the awesome things you can output.
 
 #### 3D rendering of my GitHub Contributions
 
