@@ -38,10 +38,10 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. There's some really awesome things you can output.
 
-#### 3D rendering of my GitHub Contributions
+#### 3D rendering of my 2020 GitHub Contributions
 
 ![](https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif)
 
-#### ASCII file of my 2020 contributions
+#### ASCII file of my 2020 GitHub contributions
 
 ![](https://github.com/MishManners/MishManners/blob/master/Skyline.JPG)
