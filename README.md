@@ -40,13 +40,13 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 
 #### 3D rendering of my 2020 GitHub Contributions
 
-![](https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif)
-
-#### ASCII file of my 2020 GitHub contributions
-
-![](https://github.com/MishManners/MishManners/blob/master/Skyline.JPG)
+<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MishManners">
+<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MishManners" width="700">
+
+#### ASCII file of my 2020 GitHub contributions
+
+<img src="https://github.com/MishManners/MishManners/blob/master/Skyline.JPG" width="700">
 
