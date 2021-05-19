@@ -45,3 +45,7 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 #### ASCII file of my 2020 GitHub contributions
 
 ![](https://github.com/MishManners/MishManners/blob/master/Skyline.JPG)
+
+## GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=mishmanners)](https://github.com/anuraghazra/github-readme-stats)
