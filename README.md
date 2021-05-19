@@ -34,19 +34,13 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 <img src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" width="200" height="200">
 
-## GitHub Skyline
+## GitHub Stats
 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. There's some really awesome things you can output.
 
-#### 3D rendering of my 2020 GitHub Contributions
-
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
-## GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MishManners" width="700">
-
-#### ASCII file of my 2020 GitHub contributions
 
 <img src="https://github.com/MishManners/MishManners/blob/master/Skyline.JPG" width="700">
 
