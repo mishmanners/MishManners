@@ -48,4 +48,5 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 
 ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=mishmanners)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MishManners">
+
