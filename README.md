@@ -36,7 +36,9 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 ## GitHub Stats
 
-If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. There's some really awesome things you can output. And if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats).
+If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, and even view it in Virtual Reality. You can also view the ASCII file and if you know the code combination, you can view the koonami code.
+
+As for the pie graph 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats).
 
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
