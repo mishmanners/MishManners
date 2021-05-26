@@ -42,7 +42,7 @@ As for the pie graph 🥧, if you like my A+ stats, then you can make your own b
 
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
 <img src="https://github.com/MishManners/MishManners/blob/master/Skyline.JPG" width="700">
 
