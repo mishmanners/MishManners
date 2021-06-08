@@ -17,7 +17,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
 - [YouTube](http://youtube.com/c/MishManners) 📽 
 - [MishManners®™ website](http://mishmanners.com) 🌐 
-- [Hackathon Queen®™ blog](http://hackathonqueen.com) 🌐
+- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
