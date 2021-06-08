@@ -21,7 +21,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
-- [Esports and gaming articles](https://www.dailyesports.gg/author/michelle/) :notebook:
+- [Esports and gaming articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
 - [Dev.to blog posts](https://dev.to/mishmanners) ✍️
 - [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :bookmark:
 - [Talks and presentations](https://mishmanners.tech/recorded-presentations/) :books:
