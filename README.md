@@ -50,3 +50,5 @@ As for the pie graph 🥧, if you like my A+ stats, then you can make your own b
 <img src="https://github.com/MishManners/MishManners/blob/master/Skyline.JPG" width="700">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly)](https://git.io/streak-stats)
