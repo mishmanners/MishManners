@@ -43,6 +43,8 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
 
+<!--- want to add this to my profile: https://github.com/Platane/snk Snake using GitHub Actions -->
+
 ### Some Fun Facts about me:
 
 :zap: I've founded a few companies in the past. I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online and jump in on my Twitch chats!
