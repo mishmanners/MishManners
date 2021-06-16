@@ -15,7 +15,7 @@ runs:
 
 inputs:
   github_user_name:
-    description: "github user name"
+    description: "mishmanners"
     required: true
   gif_out_path:
     description: "path of the generated gif"
