@@ -11,6 +11,16 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 ### Find me all around the web:
 
+<p align="left">
+<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="http://instagram.com/mishmanners_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="http://twitch.tv/MishManners" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="" height="30" width="40" /></a>
+<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="http://mishmanners.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="" height="30" width="40" /></a>
+<a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="" height="30" width="40" /></a>
+</p>
+
 - [Twitter](http://twitter.com/MishManners) :bird:
 - [Instagram](http://instagram.com/mishmanners_) 📸
 - [Twitch](http://twitch.tv/MishManners) 📺 
