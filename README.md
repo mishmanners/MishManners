@@ -22,14 +22,6 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
 </p>
 
-- [Twitter](http://twitter.com/MishManners) :bird:
-- [Instagram](http://instagram.com/mishmanners_) 📸
-- [Twitch](http://twitch.tv/MishManners) 📺 
-- [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
-- [YouTube](http://youtube.com/c/MishManners) 📽 
-- [MishManners®™ website](http://mishmanners.com) 🌐 
-- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
-
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
 - [Esports and gaming articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
