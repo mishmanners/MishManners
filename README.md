@@ -46,3 +46,4 @@ As for the pie graph 🥧, if you like my A+ stats, then you can make your own b
 
 <img src="https://github.com/MishManners/MishManners/blob/master/Skyline.JPG" width="700">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
