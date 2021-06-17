@@ -29,6 +29,11 @@ jobs:
           github_user_name: mishmanners
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      # add the changes    
+      - run:
+          git add dist
+          git commit -m 'add file'
      
      # show the status of the build
       - run: git status
