@@ -27,8 +27,11 @@ jobs:
         id: snake-gif
         with:
           github_user_name: mishmanners
-          gif_out_path: /github-contribution-grid-snake.gif
-          svg_out_path: /github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+     
+     # show the status of the build
+      - run: git status
           
       # Push the changes to Main branch
       - name: Push changes
