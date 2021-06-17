@@ -30,11 +30,11 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
           
-      # add the changes    
-      - run:
-          git config --global mishmanners
-          git add dist
-          git commit -m 'add file'
+      # add and commit the changes. Commenting out as this is not working    
+      # - run:
+      #    git config --global mishmanners
+      #    git add dist
+      #    git commit -m 'add file'
      
      # show the status of the build
       - run: git status
