@@ -22,8 +22,8 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
 
-### I'm a gamer too, so you might find me at:
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="" height="30" /></a>
+### I'm a gamer too, so you might find me on:
+<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
 <!-- still to add
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="" height="30" /></a> Steam
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="" height="30" /></a> Battletag
