@@ -21,6 +21,7 @@ jobs:
       - uses: actions/checkout@v2
      
       - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: mishmanners
           gif_out_path: dist/github-contribution-grid-snake.gif
