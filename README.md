@@ -36,6 +36,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
 
+<!--
 
 - [Twitter](http://twitter.com/MishManners) :bird:
 - [Instagram](http://instagram.com/mishmanners_) 📸
