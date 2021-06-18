@@ -74,9 +74,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
 
-<img src="https://github.com/MishManners/MishManners/blob/master/Skyline.JPG" width="700">
-
- ``` 
+``` 
           @mishmanners' 2020 GitHub Skyline          
 
      ✦            ✦    ✦    ✦ ▁               ✧  ✦   
