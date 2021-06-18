@@ -2,7 +2,7 @@
 
 name: Generate Snake
 
-# Controls when the action will run. Every 6 hours.
+# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
       # every 6 hours
@@ -36,7 +36,7 @@ jobs:
       #    git add dist
       #    git commit -m 'add file'
      
-     # show the status of the build
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
           
       # Push the changes to Main branch
