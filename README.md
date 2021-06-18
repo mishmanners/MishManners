@@ -76,6 +76,16 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <img src="https://github.com/MishManners/MishManners/blob/master/Skyline.JPG" width="700">
 
+  
+          @mishmanners' 2020 GitHub Skyline          
+
+     ✦            ✦    ✦    ✦ ▁               ✧  ✦   
+                         ▁    █        ▃          █  
+ ✧    ✦             ▇    █    █✦  ☽ ▂▄ █ ▇       ✧█  
+  ▆  ✧   ▄ ✧  ▆ ▄   █    █ ▄  █ ▂✦▄ ██▆█ █        █  
+  █▅▃▃▁ ▁█ ▃▃▅█▆█▃▃▅█▅▃ ▃█▃█▃▃█▅█▅█▆████▃█ ▃✧▅▃ ▃ █▁ 
+▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
 
 ### Watch my contribution graph get eaten by the snake 🐍
