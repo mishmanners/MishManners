@@ -82,3 +82,5 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
 
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.gif)
