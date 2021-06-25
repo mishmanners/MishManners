@@ -9,6 +9,8 @@
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event or speaking on stage! Well, not so much at the moment, but you'll probably find me on a live stream instead!
 
+![giphy](https://user-images.githubusercontent.com/36594527/123380068-56244c80-d5d2-11eb-80a0-6c8492391df4.gif)
+
 ### Find me all around the web:
 
 <p align="left">
