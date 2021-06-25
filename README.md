@@ -53,6 +53,10 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 -->
 
+## Currently
+
+Right now, I'm playing [Battlesnake](https://play.battlesnake.com/u/mishmanners/) 🐍 [Fork the repo](https://github.com/orgs/BattlesnakeOfficial/repositories) (choose from Python, Go, or Java starter snakes), make your snake, and come play with us!
+
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
 - [Esports and gaming articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
