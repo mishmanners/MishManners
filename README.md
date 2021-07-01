@@ -57,7 +57,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 Right now, I'm playing [Battlesnake](https://play.battlesnake.com/u/mishmanners/) 🐍 [Fork the repo](https://github.com/orgs/BattlesnakeOfficial/repositories) (choose from Python, Go, or Java starter snakes), make your snake, and come play with us!
 
-<img src="https://github.com/mishmanners/MishManners/blob/master/Images/Wordmark.png" width="300">
+<a href="https://play.battlesnake.com" target="blank"><img align="" src="https://github.com/mishmanners/MishManners/blob/master/Images/Wordmark.png" width="300" /></a>
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
