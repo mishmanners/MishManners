@@ -41,7 +41,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
 
 <!--
-## Listening too 🎧
+## Listening too 🎧 Need to fix this.
 
 [![Spotify](https://mishmanners.vercel.app/api/spotify)](https://open.spotify.com/user/22a52oj3e5hnylnh2ua2e6loy) --!>
 
