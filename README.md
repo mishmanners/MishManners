@@ -47,7 +47,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <!--
 
 - [Twitter](http://twitter.com/MishManners) :bird:
-- [Instagram](http://instagram.com/mishmanners_) 📸
+- [Instagram](http://instagram.com/mishmanners) 📸
 - [Twitch](http://twitch.tv/MishManners) 📺 
 - [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
 - [YouTube](http://youtube.com/c/MishManners) 📽 
