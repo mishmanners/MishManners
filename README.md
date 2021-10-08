@@ -58,13 +58,13 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
-- [Esports and gaming articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
+- [Esports articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
+- [Gaming articles](https://www.gamepur.com/author/michelle-mannering) :notebook:
 - [DEV blog posts](https://dev.to/mishmanners) ✍️
 - [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :bookmark:
 - [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) :books:
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
-
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ### Some Fun Facts about me:
