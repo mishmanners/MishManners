@@ -57,12 +57,12 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 -->
 
 ### Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
-- [Esports articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
-- [Gaming articles](https://www.gamepur.com/author/michelle-mannering) :notebook:
+- [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
+- [Esports articles](https://www.upcomer.com/author/michelle-mannering/) 🕹️
+- [Gaming articles](https://www.gamepur.com/author/michelle-mannering) 🎮
 - [DEV blog posts](https://dev.to/mishmanners) ✍️
-- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :bookmark:
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) :books:
+- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) 🎥
+- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
 
