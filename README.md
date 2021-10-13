@@ -60,6 +60,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
 - [Esports articles](https://www.upcomer.com/author/michelle-mannering/) 🕹️
 - [Gaming articles](https://www.gamepur.com/author/michelle-mannering) 🎮
+- [Tech reviews](https://techau.com.au/author/mmannering/) 🖥️
 - [DEV blog posts](https://dev.to/mishmanners) ✍️
 - [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) 🎥
 - [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
