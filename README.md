@@ -39,10 +39,9 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
 
-<!--
-## Listening too 🎧 Need to fix this.
+## Listening too 🎧
 
-[![Spotify](https://mishmanners.vercel.app/api/spotify)](https://open.spotify.com/user/22a52oj3e5hnylnh2ua2e6loy)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=default&bar_color=43a2ea)](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&redirect=true)
 
 <!--
 
