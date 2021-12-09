@@ -62,7 +62,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Gaming articles on Gamepur](https://www.gamepur.com/author/michelle-mannering) 🎮
 - [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) 🖥️
 - [Blog posts on DEV](https://dev.to/mishmanners) ✍️
-- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) 🆕
+- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) 💽
 - [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) 🎥
 - [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
