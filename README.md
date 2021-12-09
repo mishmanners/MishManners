@@ -55,7 +55,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 -->
 
-### Watch, read, and catch up on content:
+## Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
 - [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) 🕹️ formely [Daily Esports](https://www.dailyesports.gg/author/michelle/)
 - [Gaming articles on Gamepur](https://www.gamepur.com/author/michelle-mannering) 🎮
