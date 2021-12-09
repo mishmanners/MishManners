@@ -42,9 +42,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 ### 🎶 Listening too 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=43a2ea&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&redirect=true)
-
 <!--
-
 - [Twitter](http://twitter.com/MishManners) :bird:
 - [Instagram](http://instagram.com/mishmanners) 📸
 - [Twitch](http://twitch.tv/MishManners) 📺 
@@ -52,10 +50,9 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [YouTube](http://youtube.com/c/MishManners) 📽 
 - [MishManners®™ website](http://mishmanners.com) 🌐 
 - [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
-
 -->
 
-## Watch, read, and catch up on content:
+### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
 - [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) 🕹️ formely [Daily Esports](https://www.dailyesports.gg/author/michelle/)
 - [Gaming articles on Gamepur](https://www.gamepur.com/author/michelle-mannering) 🎮
