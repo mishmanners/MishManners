@@ -41,7 +41,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 ### 🎶 Listening too 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=53bfd5&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 - [Twitter](http://twitter.com/MishManners) :bird:
 - [Instagram](http://instagram.com/mishmanners) 📸
