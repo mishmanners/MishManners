@@ -63,6 +63,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
+- [Sessionize Profile](https://sessionize.com/mishmanners/)
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ### Some Fun Facts about me:
