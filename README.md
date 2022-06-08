@@ -1,3 +1,12 @@
+Hi I'm Mish.
+
+
+
+
+
+
+
+
 ## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ 👋
 
 <!--
