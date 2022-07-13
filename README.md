@@ -1,6 +1,4 @@
 ## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ 👋
-
-Hi GitHub new APAC hires :wave:
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
