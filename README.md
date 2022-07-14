@@ -80,7 +80,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
 
-```    
+```ascii    
           My 2021 GitHub Skyline          
 
          ✦                 ✦    ▁          ☽     ✦   
