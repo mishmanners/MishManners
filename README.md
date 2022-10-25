@@ -70,7 +70,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ### Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel, I also do live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
+I've founded a few companies in the past :zap: I love playing video games which you'll find me playing over on my [Twitch Channel](http://twitch.tv/MishManners). We also do live coding on Twitch! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, so make sure you follow my socials for all the updates. You can always jump on my Twitch chats for a super quick response, and I'm still doing virtual conferences.
 
 ## GitHub Stats
 
