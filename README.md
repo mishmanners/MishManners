@@ -58,7 +58,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
 - [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) 🕹️ formely Daily Esports
-- [Gaming articles on DoubleXP](https://doublexp.com/author/michelle-mannering) 🎮 formerly Gamepur
+- [Gaming articles on Gamepur](https://doublexp.com/author/michelle-mannering) 🎮
 - [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) 🖥️
 - [Blog posts on DEV](https://dev.to/mishmanners) ✍️
 - [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) 💽
