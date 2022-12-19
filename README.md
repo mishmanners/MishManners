@@ -82,6 +82,7 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 <!-- 2020 graph
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
+<!-- 2021 Skyline -->
 <img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
