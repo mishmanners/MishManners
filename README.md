@@ -4,7 +4,7 @@
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or on a live stream!
 
