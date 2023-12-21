@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ 👋
+## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ :wave:
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
@@ -7,6 +7,8 @@
 ![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 👋 Hi, I'm a multi-talented personality in the tech and gaming communities. As a developer advocate 🥑, I get to share my knowledge and experience through articles, presentations, and even Twitch streams. I have written articles on technical topics, and spoken at conferences and events on the importance of collaboration, community building, and the future of work. I'm also a respected leader in the hackathon community, having won, organised, and mentored at numerous events. I'm a successful entrepreneur and founder, having co-founded several companies – including an artificial intelligence company. You'll often catch me at an event, speaking on stage, or on a live stream!
+
+And yes my name was Michelle "MishManners" Mannering, and now I am Michelle "MishManners" Duke after getting married in December 2023. We couldn't be happier. You might even catch my player 2 on a live stream or at an event with me :heart:
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
