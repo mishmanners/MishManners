@@ -1,12 +1,12 @@
-## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ :wave:
+## :wave: Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ :wave:
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+![mishmanners gaming room - gif of my actual gaming room setup](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
-👋 Hi, I'm a multi-talented personality in the tech and gaming communities. As a developer advocate 🥑, I get to share my knowledge and experience through articles, presentations, and even Twitch streams. I have written articles on technical topics, and spoken at conferences and events on the importance of collaboration, community building, and the future of work. I'm also a respected leader in the hackathon community, having won, organised, and mentored at numerous events. I'm a successful entrepreneur and founder, having co-founded several companies – including an artificial intelligence company. You'll often catch me at an event, speaking on stage, or on a live stream!
+:wave: Hi, I'm a multi-talented personality in the tech and gaming communities. As a developer advocate :avocado:, I get to share my knowledge and experience through articles, presentations, and even Twitch streams. I have written articles on technical topics, and spoken at conferences and events on the importance of collaboration, community building, and the future of work. I'm also a respected leader in the hackathon community, having won, organised, and mentored at numerous events. I'm a successful entrepreneur and founder, having co-founded several companies – including an artificial intelligence company. You'll often catch me at an event, speaking on stage, or on a live stream!
 
 And yes my name was Michelle "MishManners" Mannering, and now I am Michelle "MishManners" Duke after getting married in December 2023. We couldn't be happier. You might even catch my player 2 on a live stream or at an event with me :heart:
 
@@ -28,50 +28,50 @@ And yes my name was Michelle "MishManners" Mannering, and now I am Michelle "Mis
 
 <!-- TODO add in the rest of the URLs -->
 ### I'm a gamer too, so you might find me on:
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
+<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" alt="discord logo"/></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="30" alt="ESO logo"/></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" alt="Epic Games logo"/></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" alt="League of Legends logo"/></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" alt="Battlenet logo"/></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" alt="Xbox logo"/></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30" alt="PlayStation logo"/></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" alt="Pokemon GO logo"/></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="30" alt="Shadowverse logo"/></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" alt="Steam logo"/></a>
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" alt="Switch logo"/></a>
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" alt="MTG Arena logo"/></a>
 
 ### I'm listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![image of my spotify profile playing](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Pins:
 [![An image of @mishmanners's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishmanners)](https://holopin.io/@mishmanners)
 
 <!--
 - [Twitter](http://twitter.com/MishManners) :bird:
-- [Instagram](http://instagram.com/mishmanners) 📸
-- [Twitch](http://twitch.tv/MishManners) 📺 
+- [Instagram](http://instagram.com/mishmanners) :camera_flash:
+- [Twitch](http://twitch.tv/MishManners) :tv:
 - [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
-- [YouTube](http://youtube.com/c/MishManners) 📽 
-- [MishManners®™ website](http://mishmanners.com) 🌐 
-- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
+- [YouTube](http://youtube.com/c/MishManners) :movie_camera:
+- [MishManners®™ website](http://mishmanners.com) :globe_with_meridians:
+- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) :globe_with_meridians:
 -->
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
-- [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) 🕹️ formely Daily Esports
-- [Gaming articles on Gamepur](https://doublexp.com/author/michelle-mannering) 🎮
-- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) 🖥️
-- [Blog posts on DEV](https://dev.to/mishmanners) ✍️
-- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) 💽
-- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) 🎥
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
-- [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
-- [Sessionize Profile](https://sessionize.com/mishmanners/)
+- [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) :joystick: formely Daily Esports
+- [Gaming articles on Gamepur](https://doublexp.com/author/michelle-mannering) :video_game:
+- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) :desktop_computer:
+- [Blog posts on DEV](https://dev.to/mishmanners) :writing_hand:
+- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) :cd:
+- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :movie_camera:
+- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) :mega:
+- [Buy merchandise](https://merch.streamelements.com/mishmanners/) :shopping_cart:
+- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) :shopping:
+- [Sessionize Profile](https://sessionize.com/mishmanners/) :microphone:
 
-<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games and you'll find me playing games on my [Twitch Channel](http://twitch.tv/MishManners) and live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my Twitch chat during a live stream. Or DM me on Instagram or Twitter.
 
@@ -79,13 +79,13 @@ I've founded a few companies in the past :zap: I love playing video games and yo
 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
 
-As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
+As for the charts :pie:, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [:fire: GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <!-- 2020 graph
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
 <!-- 2021 Skyline -->
-<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
+<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700" alt="My GitHub Skyline which is my GitHub Contribution graph in 3D">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
@@ -128,7 +128,7 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 --!>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
 
-### Watch my contribution graph get eaten by the snake 🐍
+### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
