@@ -92,7 +92,7 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
 
 ```ascii
-          @mishmanners' 2023 GitHub Skyline
+                              @mishmanners' 2023 GitHub Skyline
                      ✦                      ✧  ✦   ▁✦               ✧     
                      ☽ ✧      ✧✧                   ██    ▃
                               ✦      ▁             ██        █ 
