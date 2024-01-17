@@ -90,8 +90,15 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 <img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
+
 ```ascii
-          @mishmanners' 2023 GitHub Skyline          ✧                   ✦          ✦▁                              ✦                     ██        ▃                        ✧   ▁            ✧██        █           ✧✧ ▇   ☽  ▆  █   █ ▂▂ ▃    ✦  ✦██▇  ✧    █▄     ▄ ✧ ▁✧▂██▃ ▅▅▁▄█▇▅█▁▂▅██████▂ ▁█ ▃▆▆███▁▆✦✧ ▅▇██ ▁▂▃ █ ▅ ██████▁█████████████████████▇████████▅▆█████████████▇
+          @mishmanners' 2023 GitHub Skyline
+                     ✦                      ✧  ✦   ▁✦               ✧     
+                     ☽ ✧      ✧✧                   ██    ▃
+                              ✦      ▁             ██        █ 
+                       ▇     ✧▆  █   █ ▂▂ ▃        ██▇       █▄     ▄
+                    ▁ ▂██▃ ▅▅▁▄█▇▅█▁▂▅██████▂ ▁█ ▃▆▆███▁▆   ▅▇██ ▁▂▃ █ ▅✦
+                     ██████▁█████████████████████▇████████▅▆█████████████▇
 ```
 
 <!--
