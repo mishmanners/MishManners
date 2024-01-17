@@ -79,6 +79,8 @@ I've founded a few companies in the past :zap: I love playing video games and yo
 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
 
+![ezgif-4-08159b8d03](https://github.com/mishmanners/MishManners/assets/36594527/419060cd-ddee-4f02-a798-cf9ae51ce133)
+
 As for the charts :pie:, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [:fire: GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <!-- 2020 graph
