@@ -83,6 +83,16 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 
 Check out the [full video on Twitter](https://twitter.com/MishManners/status/1747420983513031015).
 
+```ascii
+                              @mishmanners' 2023 GitHub Skyline
+                     ✦                      ✧  ✦   ▁✦               ✧     
+                     ☽ ✧      ✧✧                   ██    ▃
+                              ✦      ▁             ██        █ 
+                       ▇     ✧▆  █   █ ▂▂ ▃        ██▇       █▄     ▄
+                    ▁ ▂██▃ ▅▅▁▄█▇▅█▁▂▅██████▂ ▁█ ▃▆▆███▁▆   ▅▇██ ▁▂▃ █ ▅✦
+                     ██████▁█████████████████████▇████████▅▆█████████████▇
+```
+
 As for the charts :pie:, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [:fire: GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <!-- 2020 graph
@@ -94,16 +104,6 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 <img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
-
-```ascii
-                              @mishmanners' 2023 GitHub Skyline
-                     ✦                      ✧  ✦   ▁✦               ✧     
-                     ☽ ✧      ✧✧                   ██    ▃
-                              ✦      ▁             ██        █ 
-                       ▇     ✧▆  █   █ ▂▂ ▃        ██▇       █▄     ▄
-                    ▁ ▂██▃ ▅▅▁▄█▇▅█▁▂▅██████▂ ▁█ ▃▆▆███▁▆   ▅▇██ ▁▂▃ █ ▅✦
-                     ██████▁█████████████████████▇████████▅▆█████████████▇
-```
 
 <!--
  
