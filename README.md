@@ -58,6 +58,10 @@ And yes my name was Michelle "MishManners" Mannering, and now I am Michelle "Mis
 - [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) :globe_with_meridians:
 -->
 
+<!-- Daily Dev card -->
+
+<a href="https://app.daily.dev/mishmanners"><img src="https://api.daily.dev/devcards/v2/Lc3P7qMbJzRj7RvBTNPG1.png?type=wide&r=r8u" width="652" alt="Michelle Duke's Dev Card"/></a>
+
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
 - [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) :joystick: formely Daily Esports
