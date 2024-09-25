@@ -147,9 +147,9 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 --!>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here 
 
-TODO FIX SNAKE EATING
+TODO FIX SNAKE EATING -->
 
 ### Watch my contribution graph get eaten by the snake :snake:
 
-<!-- platane/snk works, it just puts it on a new branch 
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg) -->
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
