@@ -145,9 +145,7 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 
 ```
 --!>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here 
-
-TODO FIX SNAKE EATING -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
 
 ### Watch my contribution graph get eaten by the snake :snake:
 
