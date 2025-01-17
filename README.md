@@ -109,6 +109,19 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
 
+My GitHub 2024 Skyline
+
+  ╻
+ ╻░                   ╻   ┃     ╻      ╻
+ ░░╻                 ╻▒   ▓╻  ╻┃░ ╻ ╻╻ ░
+ ░▒░╻ ╻╻    ╻  ╻ ╻╻ ╻░░ ╻╻▓░╻╻░░░╻░╻░░╻░╻ ┃        ╻
+ ░░░░╻░░   ╻░  ░ ░░╻░░░╻░░▓▓░░░░░▒▒▒░░░░░╻▒  ╻ ╻╻ ┃░
+╻░░░░░░░╻  ░░╻╻░╻░░░░░░░░░░░░░░░░░░░░░░░░░░╻ ░ ░░╻░░
+░░░▓░░▓▒░ ░░░░░░░░░░░░░░░░░▓░░░░░░░░░░░░░░░░░░ ░░░░░
+
+You can get yours at:
+`gh skyline --year 2024` once you've installed GitHub CLI and the github/skyline extension in your terminal.
+
 <!--
  
           My 2022 GitHub Skyline
