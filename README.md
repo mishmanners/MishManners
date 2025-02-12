@@ -63,11 +63,11 @@ And yes my name was Michelle "MishManners" Mannering, and now I am Michelle "Mis
 <a href="https://app.daily.dev/mishmanners"><img src="https://api.daily.dev/devcards/v2/Lc3P7qMbJzRj7RvBTNPG1.png?type=wide&r=r8u" width="652" alt="Michelle Duke's Dev Card"/></a>
 
 ### Watch, read, and catch up on content:
+- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) :desktop_computer:
+- [Blog posts on DEV](https://dev.to/mishmanners) :writing_hand:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
 - [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) :joystick: formely Daily Esports
 - [Gaming articles on Gamepur](https://doublexp.com/author/michelle-mannering) :video_game:
-- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) :desktop_computer:
-- [Blog posts on DEV](https://dev.to/mishmanners) :writing_hand:
 - [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) :cd:
 - [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :movie_camera:
 - [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) :mega:
