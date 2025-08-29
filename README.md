@@ -10,6 +10,8 @@
 
 Previously known as Michelle "MishManners" Mannering, I'm now Michelle "MishManners" Duke after getting married in December 2023. You might even catch my player 2 on a live stream or at an event with me :heart:.
 
+### Watch, read, and catch up on content by checking out all my [links at mishmanners.info](https://mishmanners.info).
+
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
 ### Find me all around the web:
@@ -61,8 +63,6 @@ Previously known as Michelle "MishManners" Mannering, I'm now Michelle "MishMann
 <!-- Daily Dev card -->
 
 <a href="https://app.daily.dev/mishmanners"><img src="https://api.daily.dev/devcards/v2/Lc3P7qMbJzRj7RvBTNPG1.png?type=wide&r=r8u" width="652" alt="Michelle Duke's Dev Card"/></a>
-
-### Watch, read, and catch up on content by checking out all my [links at mishmanners.info](https://mishmanners.info).
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts about me:
