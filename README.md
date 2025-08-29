@@ -62,18 +62,7 @@ Previously known as Michelle "MishManners" Mannering, I'm now Michelle "MishMann
 
 <a href="https://app.daily.dev/mishmanners"><img src="https://api.daily.dev/devcards/v2/Lc3P7qMbJzRj7RvBTNPG1.png?type=wide&r=r8u" width="652" alt="Michelle Duke's Dev Card"/></a>
 
-### Watch, read, and catch up on content:
-- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) :desktop_computer:
-- [Blog posts on DEV](https://dev.to/mishmanners) :writing_hand:
-- [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
-- [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) :joystick: formely Daily Esports
-- [Gaming articles on Gamepur](https://doublexp.com/author/michelle-mannering) :video_game:
-- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) :cd:
-- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :movie_camera:
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) :mega:
-- [Buy merchandise](https://merch.streamelements.com/mishmanners/) :shopping_cart:
-- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) :shopping:
-- [Sessionize Profile](https://sessionize.com/mishmanners/) :microphone:
+### Watch, read, and catch up on content by checking out all my [links at mishmanners.info](https://mishmanners.info).
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts about me:
